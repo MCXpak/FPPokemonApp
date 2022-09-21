@@ -4,7 +4,6 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -16,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MCXpak/FPPokemonApp/issues"
   },
-  "homepage": "https://github.com/MCXpak/FPPokemonApp#readme"
+  "homepage": "https://github.com/MCXpak/FPPokemonApp#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
